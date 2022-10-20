@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T07:22:30.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yh1PU9Z67K6juQ9CBYnR" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T07:25:12.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="J2ckfN-CspDxStMHvZNK" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="aYFYS4dmWl72IjPVExNx-27" value="게시판(board)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346.5" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aYFYS4dmWl72IjPVExNx-28" value="no" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aYFYS4dmWl72IjPVExNx-28" value="&lt;u&gt;no&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="601" width="61" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aYFYS4dmWl72IjPVExNx-29" value="tit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
