@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T06:27:46.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4-_fTDnBSbqWYztw6MdW" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T06:30:42.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WXIrLWkR_ftML-0HloCG" version="20.4.0" type="github">
   <diagram id="0z3ObpfhV8mngo4wG9x5" name="페이지-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,15 @@
             <mxPoint x="670" y="270" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kWTv9ZNkGJkBucY-h7QW-47" value="일반사용자" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kWTv9ZNkGJkBucY-h7QW-48" value="회원" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kWTv9ZNkGJkBucY-h7QW-49" value="관리자" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
