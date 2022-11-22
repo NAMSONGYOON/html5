@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T09:18:17.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="H8RWd1eXuSRmtuFin-uj" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T09:21:07.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="o-gZEI2JjDnZDrqblWgJ" version="20.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -492,7 +492,7 @@
         <mxCell id="wglulsc01303XSao3uGZ-189" value="전통시장 상세" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="488" y="1017" width="102" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wglulsc01303XSao3uGZ-190" value="체험관/전시장 상세" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="wglulsc01303XSao3uGZ-190" value="체험관/전시장 &lt;br&gt;상세" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="487" y="898" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wglulsc01303XSao3uGZ-191" value="공연장 상세" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
@@ -750,7 +750,7 @@
             <mxPoint x="494" y="801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wglulsc01303XSao3uGZ-241" value="공지사항 상세" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="wglulsc01303XSao3uGZ-241" value="관광정보사이트 등록" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="493" y="821" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wglulsc01303XSao3uGZ-242" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -841,6 +841,60 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="593" y="804.5" as="sourcePoint" />
             <mxPoint x="603" y="804.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-262" value="모범음식점 등록" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="491" y="1092" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-263" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473" y="1105" as="sourcePoint" />
+            <mxPoint x="493" y="1105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-264" value="관광식당 등록" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="492" y="1125" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-265" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="1140" as="sourcePoint" />
+            <mxPoint x="494" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-266" value="안심식당 등록" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1161" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-267" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="1174" as="sourcePoint" />
+            <mxPoint x="492" y="1174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-268" value="마포의 역사 등록" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="491" y="1202" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-269" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473" y="1215" as="sourcePoint" />
+            <mxPoint x="493" y="1215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-270" value="동이름의 유래 &lt;br&gt;등록" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="492" y="1235" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-271" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="1250" as="sourcePoint" />
+            <mxPoint x="494" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-272" value="동네에서 전해져 온 설화 등록" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1271" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wglulsc01303XSao3uGZ-274" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="1287" as="sourcePoint" />
+            <mxPoint x="492" y="1287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
