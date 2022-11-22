@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T09:27:44.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kRRIlpvgvGXSiAdHoIN1" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T09:28:01.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MQJ1PP0F-12RO9YNAs7s" version="20.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -999,10 +999,10 @@
             <mxPoint x="720" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wglulsc01303XSao3uGZ-295" value="공지사항 글 수정" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+        <mxCell id="wglulsc01303XSao3uGZ-295" value="쇼핑몰 글 수정" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="611" y="962" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wglulsc01303XSao3uGZ-296" value="공지사항 글 삭제" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+        <mxCell id="wglulsc01303XSao3uGZ-296" value="쇼핑몰 글 삭제" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="612" y="1003" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wglulsc01303XSao3uGZ-297" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
