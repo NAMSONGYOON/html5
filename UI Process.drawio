@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T00:55:42.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="D4QaAj1lU8LiO0p1uAnw" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T00:59:11.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EQ9E1NE82Plo7vAOVo9o" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -721,7 +721,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wglulsc01303XSao3uGZ-234" value="회원정보 수정" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
-          <mxGeometry x="376" y="1306" width="90" height="30" as="geometry" />
+          <mxGeometry x="375" y="1307" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wglulsc01303XSao3uGZ-235" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -730,7 +730,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wglulsc01303XSao3uGZ-236" value="회원정보 상세" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
-          <mxGeometry x="375" y="1349" width="90" height="30" as="geometry" />
+          <mxGeometry x="374" y="1349" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wglulsc01303XSao3uGZ-237" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1189,6 +1189,96 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="591" y="1175" as="sourcePoint" />
             <mxPoint x="601" y="1175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-32" value="마포의 역사&lt;br&gt;글 수정" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="731" y="1172" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-33" value="마포의 역사&lt;br&gt;글 삭제" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="731" y="1206" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="719" y="1194" as="sourcePoint" />
+            <mxPoint x="719" y="1233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1194" as="sourcePoint" />
+            <mxPoint x="732" y="1194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="719" y="1233" as="sourcePoint" />
+            <mxPoint x="732" y="1233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="wglulsc01303XSao3uGZ-268">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="1209" as="sourcePoint" />
+            <mxPoint x="720" y="1209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-38" value="동이름의 유래&lt;br&gt;글 수정" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="612" y="1213" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-39" value="동이름의 유래&lt;br&gt;글 삭제" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="612" y="1247" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1235" as="sourcePoint" />
+            <mxPoint x="600" y="1274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="601" y="1235" as="sourcePoint" />
+            <mxPoint x="613" y="1235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1274" as="sourcePoint" />
+            <mxPoint x="613" y="1274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="591" y="1250" as="sourcePoint" />
+            <mxPoint x="601" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-44" value="동네에서 전해져 온 설화 글 수정" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="731" y="1254" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-45" value="동네에서 전해져 온 설화&amp;nbsp;글 삭제" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="731" y="1290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="719" y="1269" as="sourcePoint" />
+            <mxPoint x="719" y="1308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1269" as="sourcePoint" />
+            <mxPoint x="732" y="1269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="719" y="1308" as="sourcePoint" />
+            <mxPoint x="732" y="1308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryP8u_XD-kI-GFVzrWdr-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1284" as="sourcePoint" />
+            <mxPoint x="720" y="1284" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
